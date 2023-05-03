@@ -1,5 +1,9 @@
 # homebrew-cask-fonts
 
+**Forked from https://github.com/Homebrew/homebrew-cask-fonts while awaiting fixes for Nerd Fonts 3.0**
+
+_See here for more details: https://github.com/LunarVim/LunarVim/issues/4107_
+
 Here is where you can find or submit font Casks for the [Homebrew Cask](https://github.com/Homebrew/homebrew-cask) project.
 
 ## Let’s try it!
